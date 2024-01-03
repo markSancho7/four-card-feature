@@ -1,0 +1,21 @@
+.firstTitle {
+	width: 350px;
+	font-size: 20px;
+	text-align: center;
+	color: grey;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.secondTitle {
+	width: 350px;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.description {
+	width: 350px;
+	font-size: 15px;
+	text-align: center;
+	color: grey;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
