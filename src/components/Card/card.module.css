@@ -20,13 +20,21 @@
 }
 .border-red {
 	border-top: solid 4px #ea5454;
+	grid-column: 2/3;
+	grid-row: 2/5;
 }
 .border-green {
 	border-top: solid 4px #44d3d2;
+	grid-column: 2;
+	grid-row: 4;
 }
 .border-orange {
 	border-top: solid 4px #fcae4a;
+	grid-column: 1;
+	grid-row: 3;
 }
 .border-blue {
 	border-top: solid 4px #549ef2;
+	grid-column: 3;
+	grid-row: 3;
 }

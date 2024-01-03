@@ -1,0 +1,8 @@
+@media (min-width: 1000px) {
+	.displayGrid {
+		display: grid;
+		grid-template-columns: repeat(3, 350px);
+		grid-template-rows: repeat(5, 125px);
+		gap: 10px;
+	}
+}

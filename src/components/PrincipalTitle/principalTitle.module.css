@@ -1,3 +1,6 @@
+.container {
+	grid-column: 2/3;
+}
 .firstTitle {
 	width: 350px;
 	font-size: 20px;
